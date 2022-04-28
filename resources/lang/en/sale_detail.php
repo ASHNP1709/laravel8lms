@@ -1,0 +1,41 @@
+<?php
+return[
+'stage'=>'Stage',
+'source'=>'Source',
+'completed'=>'Completed By',
+'electricity_lead'=>'Electricity Lead Duplicate',
+'electricity_sale'=>'Electricity sale Duplicate',
+'gas_lead'=>'Gas Lead Duplicate',
+'gas_sale'=>'Gas Sale Duplicate',
+'sms'=>'SMS',
+'email'=>'Email',
+'gas_resale'=>'Gas Resale Allow',
+'electricity_resale'=>'Electricity Resale Allow',
+'utm_s'=>'UTM Source',
+'utm_m'=>'UTM Medium',
+'utm_c'=>'UTM Compaign',
+'utm_t'=>'UTM Term',
+'utm_cont'=>'UTM Content',
+'gclid'=>'GClid',
+'fbclid'=>'FBClid',
+'electricity_details'=>'Electricity Details',
+'gas_status'=>'Gas Status',
+'electricity'=>'Electricity',
+'gas'=>'Gas',
+'provider_name'=>'Provider Name',
+'plan_name'=>'Plan Name',
+'plan_desc'=>'Plan Desc',
+'plan_code'=>'Plan Compaign Code',
+'distributor'=>'Distributor',
+'bundle_code'=>'Plan Bundle Code',
+'manual_address'=>'Manual Connection Address',
+'billing'=>'Billing Prefrences',
+'connection_details'=>'Connection Details',
+'customer_info'=>'Customer Info',
+'add_info'=>'Additional Info',
+'affiliate'=>'Affiliate',
+'id_details'=>'Identification Details'
+
+
+]
+?>
